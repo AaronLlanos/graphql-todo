@@ -1,0 +1,25 @@
+{
+  "name": "graphql-todo",
+  "version": "1.0.0",
+  "description": "GraphQL server with Express API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronLlanos/graphql-todo.git"
+  },
+  "keywords": [
+    "graphql",
+    "express",
+    "node",
+    "todo"
+  ],
+  "author": "Aaron Llanos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AaronLlanos/graphql-todo/issues"
+  },
+  "homepage": "https://github.com/AaronLlanos/graphql-todo#readme"
+}
